@@ -13,6 +13,7 @@
       "launchBrowser": true,
       "launchUrl": "api/pais",
       "environmentVariables": {
+        "Llave_super_secreta": "0x77175b4020A75b642c10860570800E6258Abf1CF",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
